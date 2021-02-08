@@ -1,0 +1,19 @@
+{
+    "name": "aimingo/convert",
+    "description": "Converts a PHP array to a specified PHP class object.",
+    "autoload": {
+        "psr-4": {
+            "Convert\\": "src/Convert"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mr.P",
+            "email": "kincxh@163.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
